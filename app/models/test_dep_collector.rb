@@ -1,0 +1,2 @@
+class TestDepCollector < ApplicationRecord
+end
