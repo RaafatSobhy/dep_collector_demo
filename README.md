@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This test demo for dep_collector gem .
 
 Things you may want to cover:
 
@@ -21,4 +20,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Test Api /test_dep_collectors/collector
